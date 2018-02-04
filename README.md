@@ -1,6 +1,31 @@
-# QuickStart523
+
+# Ng5QuickStart
+
+
+### Angular 5.2.3 Quick Start CLI Application with basic setups.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
+
+ # Key Features and Technologies
+
+- Angular 5.0
+- Angular CLI 1.5
+- TypeScripts 2.4.x
+- Bootstrap 4
+- Font awesome icons
+- Obserable RxJs 5.5.x Service with mapping
+- ng2-bootstrap
+- Globale State Managment
+- Lazy Loading Modules
+- jQuery 3.2.x
+- Blue color theme with SASS variables and mixin
+- Section SASS classes with footer
+
+![alt tag](https://github.com/SirajGadhia/ng5QuickStart/blob/master/src/ng5-2.PNG)
+
+![alt tag](https://github.com/SirajGadhia/ng5QuickStart/blob/master/src/ng5-3.PNG)
+
 
 ## Development server
 
@@ -25,3 +50,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
