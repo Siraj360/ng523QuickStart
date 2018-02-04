@@ -9,16 +9,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
  # Key Features and Technologies
 
-- Angular 5.0
-- Angular CLI 1.5
-- TypeScripts 2.4.x
+- Angular 5.2.3
+- Angular CLI 1.6.7
+- TypeScripts 2.5.3
 - Bootstrap 4
 - Font awesome icons
 - Obserable RxJs 5.5.x Service with mapping
 - ng2-bootstrap
+- ng-animate
 - Globale State Managment
 - Lazy Loading Modules
-- jQuery 3.2.x
+- jQuery 3.3.1
 - Blue color theme with SASS variables and mixin
 - Section SASS classes with footer
 
