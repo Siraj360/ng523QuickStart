@@ -17,7 +17,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Obserable RxJs 5.5.x Service with mapping
 - ng2-bootstrap
 - ng-animate
-- Globale State Managment
+- Global State Managment
 - Lazy Loading Modules
 - jQuery 3.3.1
 - Blue color theme with SASS variables and mixin
